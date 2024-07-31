@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "format": "prettier --write '**/*.{ts,json,scss,html}'",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
