@@ -1,3 +1,4 @@
 {
-	"*.{ts,json,scss,html}": "prettier --write"
+	"*.{js,ts,json,scss,html}": "pnpm format",
+	"*.{js,ts,html}": "pnpm lint"
 }
