@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"aaron-bond.better-comments",
+		"kisstkondoros.vscode-codemetrics",
+		"EditorConfig.EditorConfig",
+		"usernamehw.errorlens",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"esbenp.prettier-vscode",
+		"stylelint.vscode-stylelint"
+	]
+}
